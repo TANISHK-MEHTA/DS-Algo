@@ -1,0 +1,53 @@
+Sure, let's add some more details to each week:
+
+### Week 1:
+- **Feb 10-11:** 
+  - Completed initial paperwork and orientation sessions.
+  - Familiarized with company policies and procedures during the induction process.
+
+### Week 2:
+- **Feb 12-14:**
+  - Engaged in introductory meetings with team members to understand their roles and ongoing projects.
+  - Started exploring the "Develop You" section and began taking courses relevant to your role.
+
+### Week 3:
+- **Feb 17-21:**
+  - Continued exploring "Develop You" courses to enhance professional skills.
+  - Delved deeper into Spring Boot, focusing on fundamental concepts and practical applications.
+
+### Week 4:
+- **Feb 24-28:**
+  - Participated in an intern session covering essential banking concepts, including regulatory frameworks and industry trends.
+  - Started hands-on projects related to Spring Boot to reinforce learning.
+
+### Week 5:
+- **Mar 2-6:**
+  - Delved into React.js by studying its core concepts and building basic applications.
+  - Explored how React.js can be integrated with Spring Boot for developing dynamic web applications.
+
+### Week 6:
+- **Mar 9-13:**
+  - Utilized acquired knowledge of React.js and Spring Boot to develop a CSV file upload form prototype.
+  - Presented the prototype to the manager and received initial feedback for improvement.
+
+### Week 7:
+- **Mar 16-20:**
+  - Incorporated manager's feedback into the CSV file upload form, focusing on enhancing user experience and adding necessary functionalities.
+  - Attended specialized training sessions by PTCT Payment Academy to gain insights into payment processing technologies.
+
+### Week 8:
+- **Mar 23-27:**
+  - Implemented suggested functionality changes in the CSV file upload form, such as error handling and validation.
+  - Collaborated with team members to address any technical challenges and refine the solution further.
+
+### Week 9:
+- **Mar 30 - Apr 3:**
+  - Conducted thorough testing of the updated CSV file upload form to ensure its reliability and performance.
+  - Documented the implementation process and prepared detailed reports for future reference.
+
+### Week 10:
+- **Apr 6-10:**
+  - Fine-tuned the file upload logic based on final feedback from the manager and team members.
+  - Reviewed the entire internship experience and identified areas for personal and professional growth.
+
+By incorporating these additional details, your day-to-day activities note provides a more comprehensive overview of your internship journey at Wells Fargo.
